@@ -10,7 +10,8 @@
 1. 利用NSTimer作为事件的发生器
 2. 利用NSNotificationCenter作为事件的注册和通知
 
-## 实例代码讲解
+## 示例代码讲解
+![sample](http://note.youdao.com/yws/api/personal/file/WEB0a24dd84371f844c0cd339569b1b1bb4?method=download&shareKey=d192e6385cc5be0492f9a64b610fbd8a)
 1. 创建IFTimer实例并初始化定时事件。在一个App里，你只需要创建一个实例即可。
 
 ```
