@@ -56,7 +56,7 @@
 ```
 
 ## 其他
-IFTimer确实是100毫秒检查一次定时事件是否已到，你可以通过下面的接口调整这个事件，可以加快或减慢检查的频率
+IFTimer是100毫秒检查一次定时事件是否已到，你可以通过下面的接口调整这个事件，可以加快或减慢检查的频率
 
 ```
 - (void)setActiveInterval:(NSTimeInterval)interval;
